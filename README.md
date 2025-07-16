@@ -6,22 +6,23 @@ This project was completed for the Internship Experience UK (IEUK) program. It p
 
 This repository contains the following key files:
 
+*   `Final_Report.docx`: The final, professional report detailing the problem, evidence, and recommended solutions. 
 *   `log_analyzer.py`: A Python script that parses the `sample-log.log` file and prints a summary of the top traffic sources to the console.
 *   `sample-log.log`: The raw data file provided for the project.
 *   `README.md`: This file, explaining the project and how to use it.
 
 ---
 
-## Part 1: Log Analysis Script
+## How to Run the Analysis Script
 
-This script performs the initial data analysis on the log file.
+This script performs the initial data analysis that is in the final report.
 
 ### Prerequisites
 
 *   Python 3.11 or newer.
 *   The `sample-log.log` file must be in the same directory.
 
-### How to Run
+### Instructions
 
 1.  Open a terminal or command prompt.
 2.  Navigate to the project directory.
