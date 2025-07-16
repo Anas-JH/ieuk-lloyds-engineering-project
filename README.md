@@ -1,6 +1,6 @@
 # Lloyds Banking Group - Engineering Skills Project
 
-This project was completed for the Internship Experience UK (IEUK) program. It provides a complete solution to analyse a web server log file, identify the source of a bot attack, and automatically generate a professional report with findings and recommendations.
+This project was completed for the Internship Experience UK (IEUK) program. It provides a complete solution to analyse a web server log file, identify the source of a bot attack, and created a professional report with findings and recommendations.
 
 ## Project Structure
 
@@ -18,7 +18,7 @@ This script performs the initial data analysis on the log file.
 
 ### Prerequisites
 
-*   Python 3.6 or newer.
+*   Python 3.11 or newer.
 *   The `sample-log.log` file must be in the same directory.
 
 ### How to Run
