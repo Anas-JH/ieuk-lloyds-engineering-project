@@ -7,7 +7,6 @@ This project was completed for the Internship Experience UK (IEUK) program. It p
 This repository contains the following key files:
 
 *   `log_analyzer.py`: A Python script that parses the `sample-log.log` file and prints a summary of the top traffic sources to the console.
-*   `create_report.py`: A Python script that automates the creation of the final, formatted Microsoft Word report (`.docx`), complete with a data visualisation chart and references.
 *   `sample-log.log`: The raw data file provided for the project.
 *   `README.md`: This file, explaining the project and how to use it.
 
