@@ -45,9 +45,9 @@ def analyze_logs_manually(log_file_path):
     # --- ANALYSIS AND RESULTS ---
 
     # Sort the IP addresses by count and print the top 10.
-    print("\n--- TOP 10 IP ADDRESSES ---")
+    print("\n--- TOP 50 IP ADDRESSES ---")
     sorted_ips = sorted(ip_counts.items(), key=lambda item: item[1], reverse=True)
-    for ip, count in sorted_ips[:10]:
+    for ip, count in sorted_ips[:50]:
         print(f"{ip}: {count} requests")
 
     # Sort the visited pages by count and print the top 10.
